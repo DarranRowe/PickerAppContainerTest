@@ -1,0 +1,8 @@
+namespace PickerAppContainerTest
+{
+	[default_interface]
+	runtimeclass Dummy
+	{
+		Dummy();
+	};
+}
